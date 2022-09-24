@@ -6,7 +6,7 @@ date = "2022-07-29"
 I'm using LUKS **full disk encryption** on my desktop, it is a very convenient and secure way to protect my data.\
 It makes practically **impossible** to access your data without knowing the decryption key. Just insert your passphrase at boot and you are good to go.
 
-But what about encryption on an [home server](/post/homeserver)?\
+But what about encryption on an [home server](/posts/homeserver)?\
 It is **not convenient at all** to phisically insert a passphrase everytime you reboot your server. What if you haven't physical access to your server and you need to unlock it because of a sudden reboot?
 
 The solution is **ssh remote unlocking**.
