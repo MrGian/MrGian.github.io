@@ -1,7 +1,7 @@
 # Personal website
 
 You need Hugo to build this website:<br>
-```git clone https://github.com/gintr0nic/gian.im.git```<br>
+```git clone https://github.com/mrgian/gian.im.git```<br>
 ```cd gian.im```<br>
 ```hugo -D```<br>
 
