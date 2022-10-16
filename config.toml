@@ -88,3 +88,11 @@ paginate = 5
         identifier = "telegram"
         name = "Telegram"
         url = "https://t.me/im_gian"
+      [[languages.en.menu.main]]
+        identifier = "mail"
+        name = "E-Mail"
+        url = "mailto:hello@gian.im"
+      [[languages.en.menu.main]]
+        identifier = "pgp"
+        name = "PGP Key"
+        url = "https://github.com/mrgian/mrgian/raw/main/public.key"
