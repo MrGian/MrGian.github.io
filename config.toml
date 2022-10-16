@@ -91,7 +91,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "mail"
         name = "E-Mail"
-        url = "mailto:hello@gian.im"
+        url = "mailto:mail@gian.im"
       [[languages.en.menu.main]]
         identifier = "pgp"
         name = "PGP Key"
