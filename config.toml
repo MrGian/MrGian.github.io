@@ -100,3 +100,11 @@ paginate = 5
         identifier = "twitter"
         name = "Twitter"
         url = "https://twitter.com/mrrgian"
+      [[languages.en.menu.main]]
+        identifier = "matrix"
+        name = "Matrix"
+        url = "https://matrix.to/#/@mrgian:matrix.org"
+      [[languages.en.menu.main]]
+        identifier = "keybase"
+        name = "Keybase.io"
+        url = "https://keybase.io/mrgian"
