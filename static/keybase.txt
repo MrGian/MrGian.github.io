@@ -1,0 +1,57 @@
+
+==================================================================
+https://keybase.io/mrgian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gian.im
+  * I am mrgian (https://keybase.io/mrgian) on keybase.
+  * I have a public key ASBweqjUPO7D7FiMK0mzG2Pavq7qmDlvhzgKIOh6XeR1dwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e4892c6c97b13924d4f1914ae94d96b7d5205f617e8b69520b032917bc9956ca0a",
+      "host": "keybase.io",
+      "kid": "0120707aa8d43ceec3ec588c2b49b31b63dabeaeea98396f87380a20e87a5de475770a",
+      "uid": "02c90dd766751d8d7897363329ef0619",
+      "username": "mrgian"
+    },
+    "merkle_root": {
+      "ctime": 1666779499,
+      "hash": "c7851ec19ecd01773805d4464034b980aa01dbeca29a279ff13b7e5104319a579876d67ac38f7b84d493df769509fce968a730aa5537d3a5f63858910b2e2724",
+      "hash_meta": "44fa5272323faa2216743565ed4281cc97c232c7d603f7d6e698a13324398cc6",
+      "seqno": 23435226
+    },
+    "service": {
+      "entropy": "yA5NkXxaEbitr1psq6VaMw5X",
+      "hostname": "gian.im",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1666779534,
+  "expire_in": 504576000,
+  "prev": "0db1461615b7a6e205f6f2049859378bf3993a3497ddf99064703b84e8a9bc93",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcHqo1Dzuw+xYjCtJsxtj2r6u6pg5b4c4CiDoel3kdXcKp3BheWxvYWTESpcCE8QgDbFGFhW3puIF9vIEmFk3i/OZOjSX3fmQZHA7hOipvJPEIKWhIAnoSkjgjo2FKrLii0/kyeO04jFWbBlcL/aMv8oKAgHCo3NpZ8RAVSdEX+AH3bqLdcxOQT7DliPetx8wMHH/L2n5f7ngMYYbeeVHnMATyEc6w5mQNkK2RjgxuFm5osOyVMIYtLZcAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEioKQviN8+lrFlElM1W/sYEs+KdP/I+4PIeBHu9O+Cgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrgian
+
+==================================================================
