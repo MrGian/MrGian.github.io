@@ -88,10 +88,10 @@ paginate = 5
         identifier = "mail"
         name = "E-Mail"
         url = "mailto:mail@gian.im"
-      [[languages.en.menu.main]]
-        identifier = "pgp"
-        name = "PGP Key"
-        url = "https://github.com/mrgian/mrgian/raw/main/public.key"
+      #[[languages.en.menu.main]]
+      #  identifier = "pgp"
+      #  name = "PGP Key"
+      #  url = "https://github.com/mrgian/mrgian/raw/main/public.key"
       [[languages.en.menu.main]]
         identifier = "twitter"
         name = "Twitter"
